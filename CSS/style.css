@@ -57,6 +57,7 @@ main .right .but button {
     outline: none;
     color: hsl(257, 40%, 49%);
     font-size: 1rem;
+    cursor:pointer;
     box-shadow: 2px 2px 5px 2px rgb(88,64,150);
     transition: all 0.3s ease-in-out;
 }
